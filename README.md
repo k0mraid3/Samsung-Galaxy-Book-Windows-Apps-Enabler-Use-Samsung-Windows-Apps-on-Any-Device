@@ -9,7 +9,7 @@ I have not had any kind of issues occure from using this script but i am using i
 
 --Break-down--
 
-The first part of the script sets the following registry values:
+The first part of the script runs as admin and sets the following registry values:
 
 HKLM\HARDWARE\DESCRIPTION\System\BIOS\SystemProductName: Sets the product name to "NP960XFH-XA4US".
 
