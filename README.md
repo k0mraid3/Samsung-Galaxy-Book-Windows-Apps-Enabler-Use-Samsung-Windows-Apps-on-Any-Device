@@ -12,16 +12,27 @@ I have not had any kind of issues occure from using this script but i am using i
 The first part of the script sets the following registry values:
 
 HKLM\HARDWARE\DESCRIPTION\System\BIOS\SystemProductName: Sets the product name to "NP960XFH-XA4US".
+
 HKLM\HARDWARE\DESCRIPTION\System\BIOS\SystemFamily: Sets the system family to "Galaxy Book3".
+
 HKLM\HARDWARE\DESCRIPTION\System\BIOS\SystemVersion: Sets the system version to "Ultra".
+
 HKLM\HARDWARE\DESCRIPTION\System\BIOS\SystemManufacturer: Sets the system manufacturer to "Samsung".
+
 HKLM\HARDWARE\DESCRIPTION\System\BIOS\SystemSKU: Sets the system SKU to "6531064".
+
 HKLM\SYSTEM\HardwareConfig\Current\SystemFamily: Sets the system family to "Galaxy Book3".
+
 HKLM\SYSTEM\HardwareConfig\Current\SystemManufacturer: Sets the system manufacturer to "Samsung".
+
 HKLM\SYSTEM\HardwareConfig\Current\SystemSKU: Sets the system SKU to "6531064".
+
 HKLM\SYSTEM\HardwareConfig\Current\SystemProductName: Sets the product name to "NP960XFH-XA4US".
+
 HKLM\SYSTEM\HardwareConfig\Current\SystemVersion: Sets the system version to "Ultra".
+
 HKLM\SYSTEM\ControlSet001\Control\SystemInformation\SystemManufacturer: Sets the system manufacturer to "Samsung".
+
 HKLM\SYSTEM\ControlSet001\Control\SystemInformation\SystemProductName: Sets the product name to "NP960XFH-XA4US".
 
 The second part of the script copies itself, "Galaxy_Book3_Pro_Spoofer.bat", to the Startup folder. This file SHOULD be executed every time the computer starts up. As mentioned above, if you dont want this, simply remove this bit. 
