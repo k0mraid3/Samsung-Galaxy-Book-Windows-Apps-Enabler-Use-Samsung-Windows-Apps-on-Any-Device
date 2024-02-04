@@ -60,7 +60,7 @@ Depending on how many Samsung devices you have connected to your PC, you may see
 
 <img width="596" alt="image" src="https://github.com/k0mraid3/Samsung-Galaxy-Book-Spoofer-for-Windows-10-11/assets/62849592/1831adf7-8e6f-4c2c-8585-623590f3760c">
 
-Now in an administrator command prompt, run the follow to create the service manually. 
+Now in an administrator command prompt, run the following to create the service manually. 
 ``` sc create SamSysSupSvc binPath=c:\SamSysSupSvc\SamsungSystemSupportService.exe start=auto ```
 
 If all works, it should automatically be installing Samsung apps, do a reboot and look for "Samsung Settings". Most things should now work. Check the Microsoft store if you don't find Samsung apps in recently installed, they may still be installing. 
