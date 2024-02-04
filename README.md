@@ -1,7 +1,7 @@
 # Samsung-Galaxy-Book-Spoofer-for-Windows-11
 Windows 10 &amp; 11 Samsung Galaxy Book Spoofer -- Tool for making *Some* Samsung apps work on any Windows 10 or 11 PC
 
----- PART 1 - Bat File & REG keys.
+**---- PART 1 - Bat File & REG keys.**
 
 This BAT will make Apps like Samsung Notes, Samsung Live Wallpaper, Galaxy Book Settings & Samsung Gallery function on non-galaxy Book devices. It works for some samsung Apps, but doesnt work for others, such as Samsung Studio Plus or Bixby, It is likely that i am missing one of the reg keys for it. It also seems i need to look more into the "Galaxy Book Experience" App for windows.
 
@@ -42,7 +42,7 @@ The last part of the script copies itself, "Galaxy_Book3_Pro_Spoofer.bat", to th
 
 
 
-------------- PART 2 -- Installing Patched "Samsung System Support Service" (To get things like Multi-control, Samsung Settings & a few others working)
+**------------- PART 2 -- Installing Patched "Samsung System Support Service" (To get things like Multi-control, Samsung Settings & a few others working)**
 
 
 1- Unzip and extract the "SamSysSupSvc" folder, to C:\ drive, so that the end path looks like this = "C:\SamSysSupSvc", It should ALREADY contain a patched version of the "SamsungSystemSupportService.exe", but just in case, I've attached a patched one to the repo, so if it ever automatically updates, all you need to do is drop the patched.exe into C:\SamSysSupSvc and rename it to remove the "-patched" line. 
