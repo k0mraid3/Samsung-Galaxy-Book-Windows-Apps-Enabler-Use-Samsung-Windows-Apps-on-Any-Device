@@ -19,6 +19,9 @@ https://apps.microsoft.com/detail/9P2TBWSHK6HJ
 Samsung Continuity Service **(Hidden from MS Store)** - Product ID # 9NGW9K44GQ5F
 https://apps.microsoft.com/detail/9NGW9K44GQ5F
 
+Samsung Update App - Product ID # 9NQ3HDB99VBF
+https://apps.microsoft.com/detail/9NQ3HDB99VBF
+
 Samsung Account App - Product ID # 9P98T77876KZ
 https://apps.microsoft.com/detail/9P98T77876KZ
 
@@ -28,9 +31,10 @@ https://apps.microsoft.com/detail/9NFWHCHM52HQ
 Samsung Cloud Bluetooth Sync App - Product ID # 9NJNNJTTFL45
 https://apps.microsoft.com/detail/9NJNNJTTFL45
 
-Samsung Gallery App - Product ID # 9NBLGGH4N9R9 (Has a hidden photo editor that works only on Samsung devices, tried to RE it but is written in native code and that's not my best)
+Samsung Gallery App - Product ID # 9NBLGGH4N9R9 
 https://apps.microsoft.com/detail/9NBLGGH4N9R9
+(Note - Has a hidden photo editor that works only on Samsung devices, tried to RE it but is written in native code and that's not my best)
 
-Samsung Studio App - Product ID # 9P312B4TZFFH (Note - I have patched a version of this app as a PoC, there is a set of instructions at the beginning of this apps code that tell it to check the system and deny if not Samsung hardware, I nop'ed those out so the app *just works* - See my other repo.)
+Samsung Studio App - Product ID # 9P312B4TZFFH 
 https://apps.microsoft.com/detail/9P312B4TZFFH
-
+(Note - I have patched a version of this app as a PoC, there is a set of instructions at the beginning of this apps code that tell it to check the system and deny if not Samsung hardware, I nop'ed those out so the app *just works* - See my other repo.)
