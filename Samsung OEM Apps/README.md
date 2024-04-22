@@ -13,7 +13,7 @@ https://apps.microsoft.com/search/publisher?name=Samsung+Electronics+Co.+Ltd.
 
 **---- Core Apps ----**
 
-Samsung Settings 1.5 App **(Hidden from MS Store)** - Product ID # 9P2TBWSHK6HJ
+Samsung Settings App **(Hidden from MS Store)** - Product ID # 9P2TBWSHK6HJ
 https://apps.microsoft.com/detail/9P2TBWSHK6HJ
 
 Samsung Continuity Service **(Hidden from MS Store)** - Product ID # 9NGW9K44GQ5F
