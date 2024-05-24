@@ -66,3 +66,7 @@ Now in an administrator command prompt, run the following to create the service 
 If all works, it should automatically be installing Samsung apps, do a reboot and look for "Samsung Settings". Most things should now work. Check the Microsoft store if you don't find Samsung apps in recently installed, they may still be installing. If the apps do not install automatically, see the "Samsung OEM Apps" directory off the root of this repo, or follow the link if you are lazy, to install these apps manually -> https://github.com/k0mraid3/Samsung-Galaxy-Book-Windows-Apps-Enabler-Use-Samsung-Windows-Apps-on-Any-Device/tree/main/Samsung%20OEM%20Apps
 
 Enjoy, let me know if you guys figure out how to get the other apps working. 
+
+
+All copyrights, trademarks, etc are the property of Samsung. I am not affiliated with Samsung in any way. This was a research project and is for educational purposes only.
+Credit also to Samsung for 99.99% of the code, but shame on them for making these great apps only available to certain devices.
