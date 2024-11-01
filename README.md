@@ -1,3 +1,5 @@
+# 11/01/2024 This project will not be maintained anymore, please feel free to fork and continue the work, happy to help just let me know. Just don't have time to maintain this. Thanks all!
+
 # Force Samsung Windows apps from Galaxy book series to work on any windows system. (Some stipulations and HW requirements, cant bypass the hardware reqs yet)
 Windows 10 &amp; 11 Samsung Galaxy Book Spoofer -- Tool for making *Some* Samsung apps work on any Windows 10 or 11 PC
 
